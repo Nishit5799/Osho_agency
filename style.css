@@ -1037,7 +1037,7 @@ body {
   }
 
   #video-cursor {
-    background-color: #ffa63d;
+    /* background-color: #ffa63d;
     height: 25vw;
     width: 25vw;
     border-radius: 50%;
@@ -1056,7 +1056,8 @@ body {
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
-    z-index: 999;
+    z-index: 999; */
+    display: none;
   }
 
   #video-cursor i {
