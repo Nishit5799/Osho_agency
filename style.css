@@ -837,7 +837,7 @@ body {
     background-color: #030303;
     padding: 25vh 5vw;
   }
-  #cursor {
+  .mousefollower {
     display: none;
   }
   .line {
